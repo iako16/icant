@@ -1,7 +1,6 @@
-h1{
-    color: blueviolet;
+h2{
+    color: pink;
 }
-.h2{
-    color: rgb(255, 127, 168);
-    font-size: 30px;
+li{
+    display: inline-block;
 }
